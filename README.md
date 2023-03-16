@@ -2,7 +2,7 @@
 
 [Oday ouyay eakspay igpay atinlay?](http://www.wikihow.com/Speak-Pig-Latin)
 
-In this activity we're going to create an application that translates regular English words into Pig Latin.
+ translates regular English words into Pig Latin.
 
 ### 💬 Rules of Pig Latin
 
